@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #0f172a;
+    color: #e2e8f0;
+}
+
+section {
+    padding: 50px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.hero {
+    text-align: center;
+}
+
+.links a {
+    margin: 10px;
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+.projects {
+    margin-top: 40px;
+}
+
+.project-card {
+    background: #1e293b;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.project-card a {
+    color: #22c55e;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: #f8fafc;
+}
